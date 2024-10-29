@@ -27,7 +27,7 @@ st.logo(image="https://acervo.fortaleza.ce.gov.br/assets/images/Logo_PMF_Hor_Col
 
 
 with st.sidebar:
-    st.title("Apreensão de entorpecentes")
+    st.title("Apreensão de drogas 🧪")
     st.header("⚙️ Parâmetros")
 
     max_date = data['Data'].max().date()
